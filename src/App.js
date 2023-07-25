@@ -5,6 +5,8 @@ import { Container, Button, Table } from "react-bootstrap";
 import { BrowserRouter, Routes, Route, NavLink } from "react-router-dom";
 import Contact from "./Contact";
 
+
+
 export function Layout() {
   return (
   <nav className="bg-dark p-2 mb-3 text-center">
